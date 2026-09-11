@@ -1,5 +1,5 @@
 :root {
-  color-scheme: light dark;
+  color-scheme: dark;
 }
 
 * {
@@ -13,29 +13,18 @@ body {
   max-width: 640px;
   margin: 0 auto;
   padding: 3rem 1.25rem 6rem;
-  color: #1a1a1a;
-  background: #fdfdfb;
+  color: #e8e6e1;
+  background: #050505;
 }
 
 a {
-  color: #1a1a1a;
+  color: #e8e6e1;
   text-decoration: none;
   border-bottom: 1px solid currentColor;
 }
 
 a:hover {
   opacity: 0.6;
-}
-
-@media (prefers-color-scheme: dark) {
-  body {
-    color: #e8e6e1;
-    background: #161614;
-  }
-
-  a {
-    color: #e8e6e1;
-  }
 }
 
 .site-header h1 {
@@ -127,5 +116,17 @@ a:hover {
 }
 
 .back-link a {
+  border-bottom: none;
+}
+
+.site-footer {
+  margin-top: 4rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid rgba(128, 128, 128, 0.25);
+  font-size: 1rem;
+  opacity: 0.6;
+}
+
+.site-footer a {
   border-bottom: none;
 }
