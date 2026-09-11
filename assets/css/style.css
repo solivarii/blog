@@ -119,14 +119,12 @@ a:hover {
   border-bottom: none;
 }
 
-.site-footer {
-  margin-top: 4rem;
-  padding-top: 1.5rem;
-  border-top: 1px solid rgba(128, 128, 128, 0.25);
+.site-nav {
+  margin-bottom: 2.5rem;
   font-size: 1rem;
   opacity: 0.6;
 }
 
-.site-footer a {
+.site-nav a {
   border-bottom: none;
 }
