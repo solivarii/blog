@@ -1,0 +1,10 @@
+title: "Blog"
+description: ""
+permalink: /:title/
+
+markdown: kramdown
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
