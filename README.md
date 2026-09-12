@@ -1,6 +1,6 @@
 # Blog
 
-An ultra-minimalist blog built with [Jekyll](https://jekyllrb.com/). Set in EB Garamond, no JavaScript, no build tooling beyond Jekyll itself.
+An ultra-minimalist blog built with [Jekyll](https://jekyllrb.com/). Set in Helvetica Neue (system font, no external font loading), no JavaScript, no build tooling beyond Jekyll itself.
 
 ## Writing a post
 
