@@ -1,6 +1,7 @@
 title: "Blog"
 description: ""
 permalink: /:title/
+baseurl: "/blog"
 
 markdown: kramdown
 
